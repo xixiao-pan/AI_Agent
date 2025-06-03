@@ -1,0 +1,16 @@
+{
+  "test_user": {
+    "name": "Alice",
+    "organization": "Artisk",
+    "role": "designer",
+    "logo_preferences": {},
+    "history": [
+      {
+        "timestamp": "2025-06-03T19:56:19.482290",
+        "prompt": "test",
+        "logo_id": "logo_1748994979.480337",
+        "image_path": "/logo/static/logo_1748994979.480337.png"
+      }
+    ]
+  }
+}
