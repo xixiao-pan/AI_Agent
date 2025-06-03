@@ -10,6 +10,12 @@
         "prompt": "test",
         "logo_id": "logo_1748994979.480337",
         "image_path": "/logo/static/logo_1748994979.480337.png"
+      },
+      {
+        "timestamp": "2025-06-03T20:26:34.047886",
+        "prompt": "test",
+        "logo_id": "logo_1748996794.045133",
+        "image_path": "/logo/static/logo_1748996794.045133.png"
       }
     ]
   }

@@ -1,0 +1,67 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+.venv/
+pip-wheel-metadata/
+*.log
+.coverage
+.pytest_cache/
+.mypy_cache/
+.pyre/
+celerybeat-schedule
+*.pyc
+__pycache__/
+
+# FastAPI specific
+instance/
+*.db
+*.sqlite3
+
+# Node.js / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.cache/
+.next/
+.eslintcache
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+*.pid
+
+# Test coverage
+coverage/
+htmlcov/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
