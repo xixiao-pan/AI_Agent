@@ -1,21 +1,151 @@
 {
-  "test_user": {
-    "name": "Alice",
-    "organization": "Artisk",
-    "role": "designer",
+  "1": {
+    "name": "cici",
+    "organization": "artisk",
+    "role": "sde",
     "logo_preferences": {},
-    "history": [
+    "task": [
       {
-        "timestamp": "2025-06-03T19:56:19.482290",
-        "prompt": "test",
-        "logo_id": "logo_1748994979.480337",
-        "image_path": "/logo/static/logo_1748994979.480337.png"
+        "task_id": "task_b2bf9ad9",
+        "company_name": "1",
+        "industry_field": "2",
+        "messages": [],
+        "history": [
+          {
+            "timestamp": "2025-06-15T04:30:06.505123",
+            "prompt": "tet",
+            "logo_id": "logo_1749976206.503452",
+            "image_path": "/logo/static/logo_1749976206.503452.png"
+          }
+        ]
       },
       {
-        "timestamp": "2025-06-03T20:26:34.047886",
-        "prompt": "test",
-        "logo_id": "logo_1748996794.045133",
-        "image_path": "/logo/static/logo_1748996794.045133.png"
+        "task_id": "task_655968a7",
+        "company_name": "2",
+        "industry_field": "3",
+        "messages": [],
+        "history": []
+      },
+      {
+        "task_id": "task_606e7f35",
+        "company_name": "2",
+        "industry_field": "2",
+        "messages": [],
+        "history": []
+      },
+      {
+        "task_id": "task_90ed5f25",
+        "company_name": "1",
+        "industry_field": "1",
+        "messages": [],
+        "history": [
+          {
+            "timestamp": "2025-06-15T04:36:16.021280",
+            "prompt": "test",
+            "logo_id": "logo_1749976576.018409",
+            "image_path": "/logo/static/logo_1749976576.018409.png"
+          }
+        ]
+      },
+      {
+        "task_id": "task_d2eb9d9c",
+        "company_name": "2",
+        "industry_field": "2",
+        "messages": [],
+        "history": []
+      },
+      {
+        "task_id": "task_a678557b",
+        "company_name": "est",
+        "industry_field": "ste",
+        "messages": [],
+        "history": [
+          {
+            "timestamp": "2025-06-15T04:36:27.855696",
+            "prompt": "sfe",
+            "logo_id": "logo_1749976587.854346",
+            "image_path": "/logo/static/logo_1749976587.854346.png"
+          },
+          {
+            "timestamp": "2025-06-15T04:36:58.862933",
+            "prompt": "fewf",
+            "logo_id": "logo_1749976618.860892",
+            "image_path": "/logo/static/logo_1749976618.860892.png"
+          }
+        ]
+      },
+      {
+        "task_id": "task_628cf97f",
+        "company_name": "3",
+        "industry_field": "4",
+        "messages": [],
+        "history": []
+      }
+    ]
+  },
+  "2": {
+    "name": "pxx",
+    "organization": "umich",
+    "role": "student",
+    "logo_preferences": {},
+    "task": [
+      {
+        "task_id": "task_ff420ee5",
+        "company_name": "ziggy",
+        "industry_field": "pet",
+        "messages": [],
+        "history": []
+      },
+      {
+        "task_id": "task_cf94347d",
+        "company_name": "ziggy",
+        "industry_field": "pet",
+        "messages": [],
+        "history": []
+      },
+      {
+        "task_id": "task_ec55a0e6",
+        "company_name": "",
+        "industry_field": "",
+        "messages": [],
+        "history": []
+      }
+    ]
+  },
+  "3": {
+    "name": "cicipan",
+    "organization": "artisk",
+    "role": "sde",
+    "logo_preferences": {},
+    "task": [
+      {
+        "task_id": "task_9cfa89c1",
+        "company_name": "piggy",
+        "industry_field": "game",
+        "messages": [],
+        "history": []
+      }
+    ]
+  },
+  "4": {
+    "name": "piggy",
+    "organization": "artisk",
+    "role": "sde",
+    "logo_preferences": {},
+    "task": [
+      {
+        "task_id": "task_b584442c",
+        "company_name": "ziggy",
+        "industry_field": "pet2",
+        "messages": [],
+        "history": [
+          {
+            "timestamp": "2025-06-15T04:23:18.512693",
+            "prompt": "tets",
+            "logo_id": "logo_1749975798.511604",
+            "image_path": "/logo/static/logo_1749975798.511604.png"
+          }
+        ]
       }
     ]
   }
